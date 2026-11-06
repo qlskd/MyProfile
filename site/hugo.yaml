@@ -824,15 +824,11 @@ params:
     recentPosts:
       path: "blogs"
       count: 3
-      title: Recent Posts
-      enable: true
+      title: "최근 글"
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: "https://github.com/qlskd"
 
   # List pages like blogs and posts
   listPages:
