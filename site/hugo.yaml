@@ -585,22 +585,23 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
-    image: "/images/me.png"
+    title: "자기소개"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      전북대 컴퓨터인공지능학부 컴퓨터공학 전공 신선하입니다. 수업에서 배운 내용을 구현하고 실행 중 생기는 문제를 해결하며 공부하고 있습니다.
+      **관심 분야**
+      웹 개발에 관심이 있습니다. 작성한 코드와 설정이 실제 화면으로 연결되고 사용자가 직접 이용 가능하다는 부분에서 흥미를 느꼈습니다.
+      **학습 목표와 실행 계획**
+      화면 구성을 더불어 배포와 사용성 검증까지 스스로 가능한 개발 역량을 기르고 싶습니다. 이를 위해 이번 사이트의 모바일 화면과 주요 기능을 점검하고 발견한 문제를 수정하며 나아갈 계획입니다.
+      **기술 활용 경험**
+      이전에 간단한 블로그를 제작하고 배포한 경험이 있습니다. 직접 만든 사이트를 웹에서 확인할 수 있도록 공개하는 과정을 경험했습니다.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "이번 프로젝트에서 활용한 도구"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Hugo - 포트폴리오 사이트 구성"
+        - "YAML - 소개와 링크 설정"
+        - "GitHub - 소스와 변경 이력 관리"
+        - "GitHub Actions - 빌드 및 자동 배포"
 
   # Experience
   experience:
