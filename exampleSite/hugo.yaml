@@ -1,6 +1,6 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "신선하 포트폴리오"
 theme: hugo-profile
 
 # Multilingual configuration
@@ -488,8 +488,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "신선하 포트폴리오"
+  description: "컴퓨터공학을 공부하며 프로젝트 및 학습 과정을 기록하는 신선하의 포트폴리오입니다."
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -544,7 +544,7 @@ params:
     align: ms-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
     # brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
     # showBrandLogo: false # Show brand logo in nav bar | default is true
-    brandName: "Hugo Profile" # Brand name for the brand | default is the title variable
+    brandName: "신선하 포트폴리오" # Brand name for the brand | default is the title variable
     disableSearch: false
     # searchPlaceholder: "Search"
     stickyNavBar:
@@ -562,10 +562,10 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Isabella."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that look great, feel fantastic, and function correctly."
+    intro: "안녕하세요."
+    title: "신선하입니다."
+    subtitle: "배운 것을 직접 만들며 성장합니다."
+    content: "컴퓨터공학을 공부하며 다양한 프로젝트를 경험하고 있습니다."
     image: /images/hero.svg
     bottomImage:
       enable: true
