@@ -566,7 +566,7 @@ params:
     title: "신선하입니다."
     subtitle: "배운 것을 직접 만들며 성장합니다."
     content: "컴퓨터공학을 공부하며 다양한 프로젝트 경험을 하고 있습니다."
-    image: /images/hero.svg
+    image: ""
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
